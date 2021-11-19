@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2297b4"],{de41:function(n,t,e){"use strict";e.r(t);var c=e("7a23"),o={src:"http://localhost:1280/login.html"};function r(n,t,e,r,u,a){return Object(c["M"])(),Object(c["m"])("iframe",o,"\n    ")}var u={setup:function(){}};u.render=r;t["default"]=u}}]);
+//# sourceMappingURL=chunk-2d2297b4.a9848c01.js.map
